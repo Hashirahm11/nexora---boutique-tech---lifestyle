@@ -1,0 +1,6 @@
+{
+  "name": "Nexora — Boutique Tech & Lifestyle",
+  "description": "Nexora — Better Life, Smarter Choice. Découvrez notre sélection de smartphones, ordinateurs, audio, montres connectées, gaming et lifestyle avec livraison rapide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
